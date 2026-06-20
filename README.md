@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Shyam Jith S J — Personal Portfolio
+# ✦ Shyamjith K — Personal Portfolio
 
 **A cinematic, recruiter-focused portfolio built with Next.js 16 & React 19**
 
