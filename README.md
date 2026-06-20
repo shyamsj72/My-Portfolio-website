@@ -144,7 +144,7 @@ vercel --prod
 
 ## 📬 Contact
 
-**Shyam Jith S J**  
+**Shyamjith K**  
 📧 [shyamjith2302@gmail.com](mailto:shyamjith2302@gmail.com)  
 📞 [+91 9539553727](tel:+919539553727)  
 📍 Malappuram, Kerala, India  
@@ -153,6 +153,6 @@ vercel --prod
 
 <div align="center">
 
-Designed & built by **Shyam Jith S J** •  MIT License
+Designed & built by **Shyamjith K** 
 
 </div>
